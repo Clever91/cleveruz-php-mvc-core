@@ -1,10 +1,10 @@
 <?php
 
-namespace app\core\middleware;
+namespace cleveruz\phpmvc\middleware;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
-use app\core\Middleware;
+use cleveruz\phpmvc\Application;
+use cleveruz\phpmvc\exception\ForbiddenException;
+use cleveruz\phpmvc\Middleware;
 
 class AuthMiddleware extends Middleware
 {

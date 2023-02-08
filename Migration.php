@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\interface\IMigration;
+use cleveruz\phpmvc\interface\IMigration;
 use PDO;
 use PDOException;
 use Throwable;

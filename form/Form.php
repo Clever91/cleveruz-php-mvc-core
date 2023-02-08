@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace cleveruz\phpmvc\form;
 
-use app\core\Model;
+use cleveruz\phpmvc\Model;
 
 class Form
 {

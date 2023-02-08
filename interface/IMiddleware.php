@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\interface;
+namespace cleveruz\phpmvc\interface;
 
 interface IMiddleware
 {

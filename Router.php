@@ -1,12 +1,12 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\interface\IRouter;
-use app\core\Request;
-use app\core\Response;
-use app\core\exception\NotFoundException;
-use app\core\exception\UnknowMethodException;
+use cleveruz\phpmvc\interface\IRouter;
+use cleveruz\phpmvc\Request;
+use cleveruz\phpmvc\Response;
+use cleveruz\phpmvc\exception\NotFoundException;
+use cleveruz\phpmvc\exception\UnknowMethodException;
 
 class Router implements IRouter
 {

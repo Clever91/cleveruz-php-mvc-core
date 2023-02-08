@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\form;
+namespace cleveruz\phpmvc\form;
 
 class Button
 {

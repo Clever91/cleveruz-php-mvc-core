@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\Model;
+use cleveruz\phpmvc\Model;
 
 abstract class Field
 {

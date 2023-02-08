@@ -2,7 +2,7 @@
     "name": "cleveruz/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Cleveruz\\PhpMvcCore\\": "src/"
+            "cleveruz\\phpmvc\\": "src/"
         }
     },
     "authors": [

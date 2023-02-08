@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\Application;
-use app\core\interface\IController;
+use cleveruz\phpmvc\Application;
+use cleveruz\phpmvc\interface\IController;
 
 class Controller implements IController
 {

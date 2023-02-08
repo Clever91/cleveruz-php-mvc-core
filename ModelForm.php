@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
 abstract class ModelForm extends Model
 {

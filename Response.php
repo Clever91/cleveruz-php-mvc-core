@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\interface\IResponse;
+use cleveruz\phpmvc\interface\IResponse;
 
 class Response implements IResponse
 {

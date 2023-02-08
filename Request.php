@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\interface\IRequest;
+use cleveruz\phpmvc\interface\IRequest;
 
 class Request implements IRequest
 {

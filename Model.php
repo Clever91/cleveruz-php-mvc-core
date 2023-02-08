@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\interface\IModel;
+use cleveruz\phpmvc\interface\IModel;
 
 /**
  * @desc This class is responsible for validation 

@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\interface\IMiddleware;
+use cleveruz\phpmvc\interface\IMiddleware;
 
 abstract class Middleware implements IMiddleware
 {

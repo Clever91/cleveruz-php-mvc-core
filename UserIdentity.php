@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\interface\IUserIdentity;
+use cleveruz\phpmvc\interface\IUserIdentity;
 
 abstract class UserIdentity extends DbModel implements IUserIdentity
 {

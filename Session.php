@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\interface\ISession;
+use cleveruz\phpmvc\interface\ISession;
 
 class Session implements ISession
 {

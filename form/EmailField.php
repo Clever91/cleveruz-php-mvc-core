@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace cleveruz\phpmvc\form;
 
-use app\core\Field;
+use cleveruz\phpmvc\Field;
 
 class EmailField extends Field
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\Router;
-use app\core\Request;
-use app\core\Response;
+use cleveruz\phpmvc\Router;
+use cleveruz\phpmvc\Request;
+use cleveruz\phpmvc\Response;
 
 class Application
 {

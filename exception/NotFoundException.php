@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\exception;
+namespace cleveruz\phpmvc\exception;
 
 use Exception;
 

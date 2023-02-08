@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace cleveruz\phpmvc;
 
-use app\core\interface\IDbModel;
+use cleveruz\phpmvc\interface\IDbModel;
 use PDO;
 
 abstract class DbModel extends Model implements IDbModel
