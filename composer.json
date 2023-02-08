@@ -1,0 +1,15 @@
+{
+    "name": "cleveruz/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Cleveruz\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shezod Usmonov",
+            "email": "sherzod.usmon.91@gmail.com"
+        }
+    ],
+    "require": {}
+}
