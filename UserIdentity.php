@@ -18,7 +18,7 @@ abstract class UserIdentity extends DbModel implements IUserIdentity
         return "id";
     }
 
-    public static function find(string $attribute, string $value): self
+    public static function find(string $attribute, string $value): self | bool
     {
         return (new static)->findOne($attribute, $value);
     }

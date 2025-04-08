@@ -94,6 +94,6 @@ abstract class DbModel extends Model implements IDbModel
         $statement = $this->pdo->prepare($sql);
         $statement->bindValue(":{$attribute}", $value);
         $statement->execute();
-        return $statement->fetchObject(static::class);
+        return $statement->fetchObject(static::class) ?? false;
     }
 }
